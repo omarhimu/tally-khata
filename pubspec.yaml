@@ -1,7 +1,7 @@
 name: tali_khata
-description: A basic tally app
+description: A basic tally app with Hive support
 
-publish_to: 'none' 
+publish_to: 'none'
 
 version: 1.0.0+1
 
